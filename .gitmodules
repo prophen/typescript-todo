@@ -1,0 +1,6 @@
+[submodule "todo-react"]
+	path = todo-react
+	url = https://github.com/prophen/todo-react.git
+[submodule "todo-api"]
+	path = todo-api
+	url = https://github.com/prophen/todo-api.git
